@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon" />
-    <title>Document</title>
+    <title>Ecommerce web jatin</title>
     <script src="assets/js/jquery.js"></script>
     <script src="assets/js/sweetalert.js"></script>
     <link rel="stylesheet" href="assets/css/style.css" />
@@ -57,7 +57,7 @@
                     </a>
                 </div>
                 <div class="name">
-                    Krables <br />
+                    Jatin Ecommerce web <br />
                     <span>Market</span>
                 </div>
                 <div class="selecloc">
