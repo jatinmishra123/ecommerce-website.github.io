@@ -6,13 +6,13 @@
                     <li>
                         <a href="#">
                             <i class="uil uil-dialpad-alt"></i>
-                            1800-000-000
+                            6392324526
                         </a>
                     </li>
                     <li>
                         <a href="#">
                             <i class="uil uil-envelope-alt"></i>
-                            info@Krables.com
+                            info@jatin.com
                         </a>
                     </li>
                 </ul>
@@ -150,7 +150,7 @@
         </div>
     </div>
     <div class="footer-3">
-        <span> Developed by Ayondip Jana</span>
+        <span> Developed by Jatin mishra</span>
     </div>
 </section>
 <script src="assets/js/script.js"></script>
