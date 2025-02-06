@@ -81,7 +81,7 @@ require('require/top.php');
               font-size: 1.2rem;
               color: #6a7187;
             ">
-        @ Developed by Ayondip Jana
+        @ Developed by Jatin mishra
     </div>
 </div>
 <script type="text/javascript">
