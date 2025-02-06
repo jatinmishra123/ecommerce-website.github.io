@@ -147,7 +147,7 @@
                         <li>
                             <a href="" class="rightlink">
                                 <i class="uil uil-phone-alt"></i>
-                                1800-000-0000
+                                6392324526
                             </a>
                         </li>
                         <li>
